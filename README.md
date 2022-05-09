@@ -24,7 +24,7 @@ $ git clone https://github.com/Antar4s/DATA-SCIENCE
 <hr>
 
 ## Índices
-* [I Household Power Consumption](#i-household-power-consumption)
+### [I Household Power Consumption](#i-household-power-consumption)
 <br>
 
 <!-- STRUCTURE 1 -->
