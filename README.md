@@ -24,7 +24,7 @@ $ git clone https://github.com/Antar4s/ML_CLUSTERING
 <hr>
 
 ## Índices
-### [I Household Power Consumption](#i-household-power-consumption)
+### [I Household Power Consumption](#i-household-power-consumption)<br>[II Mall Customers](#ii-mall-customers)
 <br>
 
 <!-- STRUCTURE 1 -->
@@ -32,7 +32,12 @@ $ git clone https://github.com/Antar4s/ML_CLUSTERING
 > Medições de consumo de energia elétrica em uma residência com taxa de amostragem de um minuto durante um período de quase 4 anos.
 ### Base: <a href="https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption">Household Power Consumption</a> <br> Biblioteca: Sklearn <br> Algoritmo: KMeans
 
+<!-- STRUCTURE 2 -->
+## II Mall Customers
+> Segmentação de clientes de um Shopping.
+### Base: <a href="https://www.kaggle.com/datasets/shwetabh123/mall-customers">Mall Customers</a> <br> Biblioteca: Scipy <br> Algoritmo: Cluster Hierarchy
 <br>
+
 <!-- BAR -->
 <hr>
 
